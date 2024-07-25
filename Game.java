@@ -1,4 +1,4 @@
-// Test comment! Added this from local file!
+// Adding a test comment from the cloud repo!
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.text.SimpleDateFormat;
